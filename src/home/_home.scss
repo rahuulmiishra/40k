@@ -1,0 +1,11 @@
+.home {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  .toggleButton {
+    height: 32px;
+    border: 2px solid lightblue;
+    cursor: pointer;
+  }
+}
